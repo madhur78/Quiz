@@ -1,0 +1,6 @@
+framework module Quiz {
+  umbrella header "Quiz-umbrella.h"
+
+  export *
+  module * { export * }
+}

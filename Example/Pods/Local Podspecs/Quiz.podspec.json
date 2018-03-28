@@ -1,0 +1,22 @@
+{
+  "name": "Quiz",
+  "version": "0.1.0",
+  "summary": "A short description of Quiz.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/madhur78/Quiz",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "madhur78": "msnjain@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/madhur78/Quiz.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Quiz/Classes/**/*"
+}

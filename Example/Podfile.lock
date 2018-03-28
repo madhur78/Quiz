@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - Quiz (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase (~> 2.1.4)
+  - Quiz (from `../`)
+
+EXTERNAL SOURCES:
+  Quiz:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  Quiz: 93aa50b842ec3689e843e6e7ee0139cfa2d42526
+
+PODFILE CHECKSUM: e184f03827a82dea68cf86fc045b9f0b32595d27
+
+COCOAPODS: 1.4.0
